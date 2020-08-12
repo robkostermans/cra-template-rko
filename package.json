@@ -1,7 +1,8 @@
 {
   "name": "cra-template-rko",
-  "version": "1.0.0",
+  "version": "1.0.11",
   "author": "Rob Kostermans",
+  "main": "template.json",
   "keywords": [
     "react",
     "create-react-app",
