@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-rko",
+  "version": "1.0.0",
+  "author": "Rob Kostermans",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "styled-components",
+    "react-router-dom"
+  ],
+  "description": "A base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robkostermans/cra-template-rko.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/robkostermans/cra-template-rko/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
